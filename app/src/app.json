@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "PlaceRecovery2",
+    "slug": "placerecovery2",
+    "privacy": "public",
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "userInterfaceStyle": "light",
+      "bundleIdentifier": "com.placenrecovery.placenrecovery",
+      "associatedDomains": [
+        "webcredentials:https://placenrecovery.herokuapp.com/"
+      ]
+    },
+    "android": {
+      "userInterfaceStyle": "light",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.placenrecovery.placenrecovery",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": "mental health app",
+    "extra": {
+      "eas": {
+        "projectId": "92c99427-42d8-4d5b-ba4a-92d54b1c8233"
+      }
+    },
+    "owner": "gingirvitis"
+  }
+}

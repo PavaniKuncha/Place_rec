@@ -1,0 +1,91 @@
+[
+    {
+        "id": "000_scale",
+        "question": "How happy do you feel?",
+        "type": 1
+    },
+    {
+        "id": "001_scale",
+        "question": "How calm do you feel?",
+        "type": 1
+    },
+    {
+        "id": "002_scale",
+        "question": "How sad do you feel?",
+        "type": 1
+      },
+    {
+        "id": "003_scale",
+        "question": "How anxious do you feel?",
+        "type": 1
+      },
+    {
+        "id": "004_sc_text",
+        "question": "Where are you at currently?",
+        "type": 2,
+        "choices": ["Home", "Work", "School", "Walking outside", "Traveling"]
+      },
+    {
+        "id": "005_mc",
+        "question": "Who are you with right now?",
+        "type": 3,
+        "choices": [
+          "Alone",
+          "Spouse/Significant Other",
+          "Friend(s)",
+          "Family Member(s)",
+          "Neighbor(s)",
+          "Stranger(s)",
+          "Health Care Workers",
+          "Coworkers/Classmates"
+        ]
+      },
+    {
+        "id": "006_scale",
+        "question": "How engaged are you with these people? with Likert scale (1 = not at all to 5 = extremely) answer choices?",
+        "type": 1
+      },
+    {
+        "id": "007_sc",
+        "question": "Do you feel welcome amongst them?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      },
+    {
+        "id": "008_sc",
+        "question": "Do you feel they would be willing to help you?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      },
+    {
+        "id": "009_sc",
+        "question": ". Do you feel they share the same values as you?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      },
+    {
+        "id": "010_sc",
+        "question": "Do you feel like you can trust them?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      },
+    {
+        "id": "011_sc",
+        "question": "Do you feel like you fit in?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      },
+    {
+        "id": "012_sc",
+        "question": "Do you feel discriminated against?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      },
+    {
+        "id": "013_sc",
+        "question": "Do you feel a sense of community or belonging where you are at?",
+        "type": 0,
+        "choices": ["No", "Not Sure", "Yes"]
+      }
+    
+]
